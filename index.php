@@ -68,6 +68,7 @@
 	    }
 		echo "</table>";
 	    ?>
+		<a href="kuka.php">kuka</a>
 	
     </body>
 </html>
